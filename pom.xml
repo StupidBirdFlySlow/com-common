@@ -14,5 +14,6 @@
 	<modules>
 		<module>common-mybatis-plus</module>
 		<module>common-web</module>
+		<module>common-utils</module>
 	</modules>
 </project>
